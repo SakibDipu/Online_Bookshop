@@ -15,4 +15,3 @@ the name and pass for log in is admin , admin. Just to make it simple.
 the 2 main things are not fully implemented is contact and process purchase. 
 Due to having to work with some security and online payment, the process site is just a place holder. 
 
-for futher questions, please let me know. my email: nghi.lethanh2@cou.fi
